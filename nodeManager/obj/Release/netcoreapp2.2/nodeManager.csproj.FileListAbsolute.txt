@@ -1,0 +1,14 @@
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\bin\Release\netcoreapp2.2\nodeManager.deps.json
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\bin\Release\netcoreapp2.2\nodeManager.runtimeconfig.json
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\bin\Release\netcoreapp2.2\nodeManager.runtimeconfig.dev.json
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\bin\Release\netcoreapp2.2\nodeManager.dll
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\bin\Release\netcoreapp2.2\nodeManager.pdb
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\obj\Release\netcoreapp2.2\nodeManager.csprojAssemblyReference.cache
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\obj\Release\netcoreapp2.2\nodeManager.csproj.CoreCompileInputs.cache
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\obj\Release\netcoreapp2.2\nodeManager.RazorAssemblyInfo.cache
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\obj\Release\netcoreapp2.2\nodeManager.RazorAssemblyInfo.cs
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\obj\Release\netcoreapp2.2\nodeManager.AssemblyInfoInputs.cache
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\obj\Release\netcoreapp2.2\nodeManager.AssemblyInfo.cs
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\obj\Release\netcoreapp2.2\nodeManager.RazorTargetAssemblyInfo.cache
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\obj\Release\netcoreapp2.2\nodeManager.dll
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\obj\Release\netcoreapp2.2\nodeManager.pdb

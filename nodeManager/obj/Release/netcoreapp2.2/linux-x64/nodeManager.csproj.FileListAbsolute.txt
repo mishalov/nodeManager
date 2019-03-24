@@ -1,0 +1,15 @@
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\bin\Release\netcoreapp2.2\linux-x64\nodeManager
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\bin\Release\netcoreapp2.2\linux-x64\nodeManager.deps.json
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\bin\Release\netcoreapp2.2\linux-x64\nodeManager.runtimeconfig.json
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\bin\Release\netcoreapp2.2\linux-x64\nodeManager.runtimeconfig.dev.json
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\bin\Release\netcoreapp2.2\linux-x64\nodeManager.dll
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\bin\Release\netcoreapp2.2\linux-x64\nodeManager.pdb
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\obj\Release\netcoreapp2.2\linux-x64\nodeManager.csprojAssemblyReference.cache
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\obj\Release\netcoreapp2.2\linux-x64\nodeManager.csproj.CoreCompileInputs.cache
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\obj\Release\netcoreapp2.2\linux-x64\nodeManager.RazorAssemblyInfo.cache
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\obj\Release\netcoreapp2.2\linux-x64\nodeManager.RazorAssemblyInfo.cs
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\obj\Release\netcoreapp2.2\linux-x64\nodeManager.AssemblyInfoInputs.cache
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\obj\Release\netcoreapp2.2\linux-x64\nodeManager.AssemblyInfo.cs
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\obj\Release\netcoreapp2.2\linux-x64\nodeManager.RazorTargetAssemblyInfo.cache
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\obj\Release\netcoreapp2.2\linux-x64\nodeManager.dll
+C:\Users\Evgenii\Desktop\Учеба\Диплом\simplier\nodeManager\nodeManager\obj\Release\netcoreapp2.2\linux-x64\nodeManager.pdb
