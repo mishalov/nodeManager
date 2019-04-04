@@ -12,10 +12,20 @@ namespace nodeManager
 {
     public class Program
     {
+
         public static void Main(string[] args)
         {
+            try
+            {
+                Client.Init();
+            }
+            catch (Exception e)
+            {
+                Logger.Fail("Cannot Client.Init()");
+            }
+
             var host = new WebHostBuilder()
-            .UseKestrel()
+            .UseKestrel(o => { o.Limits.KeepAliveTimeout = TimeSpan.FromMinutes(10); })
             .UseContentRoot(Directory.GetCurrentDirectory())
             .UseIISIntegration()
             .UseStartup<Startup>()
@@ -23,7 +33,10 @@ namespace nodeManager
             .Build();
 
             host.Run();
+
+            ContainerLogic.Containers.ForEach(container => container.Remove());
             //CreateWebHostBuilder(args).Build().Run();
+
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>

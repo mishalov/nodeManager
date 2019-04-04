@@ -8,15 +8,16 @@ namespace nodeManager
     public static class StatusLogic
     {
 
-        public ServerStatuses[] = {
-    new ServerStatus(0, "Ожидание..."),
-    new ServerStatus(1,  "ОК"),
-    new ServerStatus(2, "DockerError")}
-        
+        public static ServerStatus[] ServerStatuses = {
+        new ServerStatus(0, "Ожидание..."),
+        new ServerStatus(1,  "ОК"),
+        new ServerStatus(2, "DockerError")
+        };
 
-    public static StatusState CheckStatus()
+
+        public static StatusState CheckStatus()
         {
-            return new StatusState(1, 1);
+            return new StatusState(StatusLogic.ServerStatuses[0], 1);
         }
     }
 }

@@ -1,0 +1,1 @@
+npm install && ls && node server.js

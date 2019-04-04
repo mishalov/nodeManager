@@ -3,13 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Docker.DotNet;
+using System.IO;
+using Docker.DotNet.Models;
 
 namespace nodeManager.Controllers
 {
+
     [Route("api/[controller]")]
-    [ApiController]
     public class StatusController : ControllerBase
     {
+
         [HttpGet]
         public JsonResult Get()
         {
@@ -17,11 +21,7 @@ namespace nodeManager.Controllers
             return new JsonResult(statusState);
         }
 
-        [HttpGet]
-        public JsonResult GetStatusDicrtionary()
-        {
-            return new JsonResult();
-        }
+
 
         // GET api/values/5
         [HttpGet("{id}")]
